@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandonendall
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning Python 3.
+- 🌱 I’m currently learning Python and PyGame!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brandonendall420@gmail.
 
